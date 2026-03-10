@@ -66,7 +66,7 @@ lib/
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/todo.git
+   git clone https://github.com/Gobi6696/To-Do-List.git
    ```
 2. Navigate to the directory
    ```bash
@@ -84,13 +84,6 @@ lib/
 *(Note: Make sure your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS) are properly configured in your local environment for Firebase to connect successfully).*
 
 ---
-
-## 📸 Screenshots & Previews
-
-*(Consider adding preview screenshots/GIFs here to demonstrate the high-quality UI & functionality visually)*
-
----
-
 ## 🎯 Why This Project Stands Out
 
 - **Scalability**: By utilizing `Provider` alongside MVC, the app is prepared for growing complexity without spaghetti code.
