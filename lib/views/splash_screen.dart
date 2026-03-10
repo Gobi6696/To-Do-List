@@ -75,7 +75,7 @@ class _SplashScreenState extends State<SplashScreen>
               Text(
                 'To-Do List',
                 style: TextStyle(
-                  color: AppTheme.primaryColor,
+                  color: Colors.indigoAccent,
                   fontSize: 40,
                   fontWeight: FontWeight.bold,
                   letterSpacing: 2,

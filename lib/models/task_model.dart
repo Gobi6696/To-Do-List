@@ -21,7 +21,9 @@ class TaskModel {
       title: data['title'] ?? '',
       description: data['description'] ?? '',
       isCompleted: data['isCompleted'] ?? false,
-      status: data['status'] ?? (data['isCompleted'] == true ? 'Completed' : 'Pending'),
+      status:
+          data['status'] ??
+          (data['isCompleted'] == true ? 'Completed' : 'Pending'),
       createdAt: data['createdAt'] != null
           ? DateTime.parse(data['createdAt'] as String)
           : DateTime.now(),
