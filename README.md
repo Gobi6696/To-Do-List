@@ -1,4 +1,4 @@
-# 🚀 ProTasker - Advanced To-Do Application
+# 🚀 ProTasker - Advanced To-Do List Application
 
 A modern, robust, and feature-rich To-Do List application built with **Flutter** and **Firebase**. Designed with a focus on clean architecture, seamless user experience, and scalability. This project demonstrates proficiency in standard industry practices like State Management, MVC Architecture, and Realtime Cloud Database Integration.
 
