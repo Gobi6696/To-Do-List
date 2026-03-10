@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "618257202616",
+    "project_id": "todo-baaa5",
+    "storage_bucket": "todo-baaa5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618257202616:android:4967936a96e62c020ce34d",
+        "android_client_info": {
+          "package_name": "com.gobi.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618257202616-t3q25a5o4mp0n1jmnon40fhk92d32cv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gobi.todo",
+            "certificate_hash": "6a9732838e7664da6eb2c1d1710c60ff712e4397"
+          }
+        },
+        {
+          "client_id": "618257202616-5v96r3rno8i9pkdvrqtk4n4getmv324o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGVqmcEBWwIASYIi5xADgKx0DTpmW_9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618257202616-5v96r3rno8i9pkdvrqtk4n4getmv324o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "618257202616-vu4mar01kkvd2idu7lilu5qe6h6fim3i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gobi.todo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
